@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+keras
+numpy
+pillow
+matplotlib
+scikit-learn
+jupyter
+python-telegram-bot
+python-dotenv
