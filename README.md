@@ -1,4 +1,4 @@
-# 🧠 DementiaCheck – Final Year Project
+# 🧠 DementiaCheck Project
 
 This is a full pipeline for detecting Alzheimer's disease using EfficientNet and MRI scans.
 
